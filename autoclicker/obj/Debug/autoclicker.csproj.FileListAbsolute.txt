@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\bin\Debug\autoclicker.exe.config
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\bin\Debug\autoclicker.exe
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\bin\Debug\autoclicker.pdb
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.exe
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.pdb
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\autoclicker.AutoClicker.resources
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\bin\Debug\AutoClicker.exe.manifest
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\bin\Debug\AutoClicker.application
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\AutoClicker.exe.manifest
+C:\Users\Gabriel\Documents\Program Projects\autoclicker\autoclicker\obj\Debug\AutoClicker.application
